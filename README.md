@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/corentin-cartallier-71a56035a">
       <img src="https://img.shields.io/badge/LinkedIn-Profil_Pro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="TON_LIEN_PORTFOLIO">
+    <a href="https://corentincartll.github.io/PortfolioWeb/">
       <img src="https://img.shields.io/badge/Portfolio-Visiter_le_Site-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -60,16 +60,21 @@ Voici une sélection de mes projets récents, alliant algorithmie, électronique
 | **🧠 NeuralNet Scratch** | Implémentation complète d'un MLP (Perceptron Multi-Couches) sans framework, pour comprendre les maths du Deep Learning. | `Python` `Maths` `Numpy` |
 | **📊 Clear-DATA** | Conception complète d'une base de données (Merise) et scripts d'automatisation pour le Data Engineering. | `SQL` `Merise` `Python` |
 
-> *Retrouvez des démos vidéos et plus de détails sur mon [Portfolio Personnel](TON_LIEN_PORTFOLIO).*
-
----
-
-### 📈 Statistiques GitHub
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CorentinCARTLL&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinCARTLL&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37" height="180" alt="languages graph" />
+
+### 🔍 Envie d'aller plus loin ?
+
+**Je vous invite à explorer mes dépôts pour découvrir la qualité de mon code, la structure de mes projets et mes contributions.**
+
+<a href="https://github.com/CorentinCARTLL?tab=repositories">
+  <img src="https://img.shields.io/badge/VOIR_TOUS_MES_REPOSITORIES-333333?style=for-the-badge&logo=github&logoColor=white" alt="Voir mes repos">
+</a>
+
 </div>
+
+<br/>
 
 ---
 
@@ -80,3 +85,4 @@ Je suis toujours ouvert aux discussions sur la Tech, la Finance ou la Formule 1 
 * 📍 **Localisation :** Mobile sur toute la France (Toulouse, Nice, Paris...)
 * 💼 **LinkedIn :** [Corentin Cartallier](https://www.linkedin.com/in/corentin-cartallier-71a56035a)
 * 📧 **Email :** [corentin.cartallier@gmail.com](mailto:corentin.cartallier@gmail.com)
+* 🌐 **Portfolio :** [Accéder à mon site personnel](TON_LIEN_PORTFOLIO)
