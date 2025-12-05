@@ -40,10 +40,10 @@ J'utilise une variété d'outils pour transformer la donnée en décision et le 
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) |
+| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 | **Data Science & IA** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 | **Systèmes & Outils** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
-| **Web & BDD** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Web & BDD** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
 
 ---
 
@@ -53,12 +53,12 @@ Voici une sélection de mes projets récents, alliant algorithmie, électronique
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **🏆 Hackathon AI 2025** | **Prix de l'Innovation.** Développement de workflows automatisés et intégration d'APIs pour l'optimisation de processus data. | `Python` `API` `Automation` |
-| **🏎️ F1 Strategy Sim** | Simulateur de stratégie de course optimisant le choix des pneus et arrêts stand. Algorithme de minimisation du temps total. | `Python` `Algo` `Data` |
-| **🛡️ BotNet Detection** | Système de cybersécurité détectant les anomalies réseau (DDoS, scans) via Random Forest sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
-| **🔐 Smart Safe** | Prototype physique de coffre-fort intelligent avec double authentification, piloté par microcontrôleur. | `C++` `Arduino` `Electronics` |
-| **🧠 NeuralNet Scratch** | Implémentation complète d'un MLP (Perceptron Multi-Couches) sans framework, pour comprendre les maths du Deep Learning. | `Python` `Maths` `Numpy` |
-| **📊 Clear-DATA** | Conception complète d'une base de données (Merise) et scripts d'automatisation pour le Data Engineering. | `SQL` `Merise` `Python` |
+| [**🏆 Hackathon AI 2025**](https://github.com/CorentinCARTLL/TON-REPO-HACKATHON) | **Prix de l'Innovation.** Architecture d'Agents IA sur Azure. Automatisation du Support Client via API & Vector DB. | `Python` `Azure` `VectorDB` |
+| [**🏎️ F1 Strategy Sim**](https://github.com/CorentinCARTLL/Simulateur-Strategie-F1) | Simulateur de stratégie de course optimisant le choix des pneus et arrêts stand. Algorithme de minimisation du temps total. | `Python` `Algo` `Data` |
+| [**🛡️ BotNet Detection**](https://github.com/CorentinCARTLL/TON-REPO-BOTNET) | Système de cybersécurité détectant les anomalies réseau (DDoS, scans) via Random Forest sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
+| [**🔐 Smart Safe**](https://github.com/CorentinCARTLL/TON-REPO-SMARTSAFE) | Prototype physique de coffre-fort intelligent avec double authentification, piloté par microcontrôleur. | `C++` `Arduino` `Electronics` |
+| [**🧠 NeuralNet Scratch**](https://github.com/CorentinCARTLL/TON-REPO-NN) | Implémentation NumPy-only d'un MLP (Backpropagation, Gradient Descent) sans framework. Maîtrise des maths du Deep Learning. | `Python` `Maths` `Numpy` |
+| [**📊 Clear-DATA**](https://github.com/CorentinCARTLL/TON-REPO-DATA) | Conception complète d'une base de données (Merise) et scripts d'automatisation pour le Data Engineering. | `SQL` `Merise` `Python` |
 
 <br/>
 
@@ -85,4 +85,4 @@ Je suis toujours ouvert aux discussions sur la Tech, la Finance ou la Formule 1 
 * 📍 **Localisation :** Mobile sur toute la France (Toulouse, Nice, Paris...)
 * 💼 **LinkedIn :** [Corentin Cartallier](https://www.linkedin.com/in/corentin-cartallier-71a56035a)
 * 📧 **Email :** [corentin.cartallier@gmail.com](mailto:corentin.cartallier@gmail.com)
-* 🌐 **Portfolio :** [Accéder à mon site personnel](TON_LIEN_PORTFOLIO)
+* 🌐 **Portfolio :** [Accéder à mon site personnel](https://corentincartll.github.io/PortfolioWeb/)
