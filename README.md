@@ -55,10 +55,10 @@ Sélection de projets démontrant mon expertise en **Algorithmique**, **Data Eng
 | :--- | :--- | :--- |
 | [**🏆 Hackathon AI 2025**](https://github.com/CorentinCARTLL/TON-REPO-HACKATHON) | **Prix de l'Innovation.** Architecture d'Agents IA sur Azure. Automatisation de workflows et intégration d'APIs pour l'optimisation de processus Data. | `Python` `Azure` `VectorDB` |
 | [**🧠 NeuralNet Scratch**](https://github.com/CorentinCARTLL/TON-REPO-NN) | Implémentation complète d'un **MLP (Réseau Multi-Couches)** sans framework. Maîtrise des maths du Deep Learning (Backpropagation, Gradient Descent). | `Python` `Numpy` `Maths` |
-| [**🛡️ BotNet Detection**](https://github.com/CorentinCARTLL/TON-REPO-BOTNET) | Système de **Cybersécurité** détectant les anomalies réseau (DDoS, scans) via Random Forest. Entraîné sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
-| [**📡 Signal Processing**](https://github.com/CorentinCARTLL/TON-REPO-SIGNAL) | Simulation complète d'une chaîne de transmission acoustique (IoT). Encodage, modulation, transmission et **décodage de signal** brut. | `Python` `DSP` `Physique` |
+| [**🛡️ BotNet Detection**](https://github.com/CorentinCARTLL/Projet-AI-BotNet-Detection) | Système de **Cybersécurité** détectant les anomalies réseau (DDoS, scans) via Random Forest. Entraîné sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
+| [**📡 Signal Processing**](https://github.com/CorentinCARTLL/Projet-Traitement-de-Signal) | Simulation complète d'une chaîne de transmission acoustique (IoT). Encodage, modulation, transmission et **décodage de signal** brut. | `Python` `DSP` `Physique` |
 | [**🏎️ F1 Strategy Sim**](https://github.com/CorentinCARTLL/Simulateur-Strategie-F1) | Algorithme d'**optimisation** de stratégie de course. Modélisation physique (dégradation pneus, carburant) pour minimiser le temps total. | `Python` `Algo` `Data` |
-| [**📊 Clear-DATA**](https://github.com/CorentinCARTLL/TON-REPO-DATA) | Cycle complet de **Data Engineering**. Conception de base de données (Merise/SQL) et scripts d'automatisation pour le peuplement et la validation. | `SQL` `Merise` `Python` |
+| [**📊 Clear-DATA**](https://github.com/CorentinCARTLL/Projet-ClearDATA) | Cycle complet de **Data Engineering**. Conception de base de données (Merise/SQL) et scripts d'automatisation pour le peuplement et la validation. | `SQL` `Merise` `Python` |
 
 <br/>
 
