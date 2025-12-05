@@ -26,9 +26,9 @@
 
 ### 🚀 À propos de moi
 
-👋 **Bonjour !** Je suis Corentin, étudiant ingénieur (CESI) passionné par la convergence entre le matériel et l'intelligence artificielle. J'aime construire des systèmes fiables qui résolvent des problèmes complexes.
+👋 **Bonjour !** Je suis Corentin, étudiant ingénieur (CESI) passionné par la convergence entre le **matériel**, l'**IA** et le **Temps Réel**. Mon objectif est de concevoir des systèmes fiables pour des environnements critiques.
 
-🎯 **Objectif Actuel :** Je suis à la recherche d'un **Stage Ingénieur de 4 mois** (Avril - Juillet 2026) dans les domaines des Systèmes Embarqués, de l'IA ou du Développement Logiciel critique.
+🎯 **Objectif Actuel :** Je recherche un **Stage Ingénieur de 4 mois** (Avril - Juillet 2026) en Systèmes Embarqués, IA ou Développement Logiciel critique.
 
 🏆 **Fait Marquant :** Lauréat du **Prix de l'Innovation 2025** au Hackathon Azuréen de l'IA.
 
@@ -36,29 +36,29 @@
 
 ### 🛠️ Arsenal Technique
 
-J'utilise une variété d'outils pour transformer la donnée en décision et le code en action physique.
+J'utilise une variété d'outils pour transformer la donnée en décision et le code en action.
 
 | Domaine | Technologies |
 | :--- | :--- |
 | **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 | **Data Science & IA** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Systèmes & Outils** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
-| **Web & BDD** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Systèmes & Outils** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| **Web & BDD** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Merise](https://img.shields.io/badge/-Merise-888888?style=flat&logo=database&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
 
 ---
 
 ### 💻 Projets Phares
 
-Voici une sélection de mes projets récents, alliant algorithmie, électronique et data.
+Sélection de projets démontrant mon expertise en **Algorithmique**, **Data Engineering** et **Systèmes**.
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| [**🏆 Hackathon AI 2025**](https://github.com/CorentinCARTLL/TON-REPO-HACKATHON) | **Prix de l'Innovation.** Architecture d'Agents IA sur Azure. Automatisation du Support Client via API & Vector DB. | `Python` `Azure` `VectorDB` |
-| [**🏎️ F1 Strategy Sim**](https://github.com/CorentinCARTLL/Simulateur-Strategie-F1) | Simulateur de stratégie de course optimisant le choix des pneus et arrêts stand. Algorithme de minimisation du temps total. | `Python` `Algo` `Data` |
-| [**🛡️ BotNet Detection**](https://github.com/CorentinCARTLL/TON-REPO-BOTNET) | Système de cybersécurité détectant les anomalies réseau (DDoS, scans) via Random Forest sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
-| [**🔐 Smart Safe**](https://github.com/CorentinCARTLL/TON-REPO-SMARTSAFE) | Prototype physique de coffre-fort intelligent avec double authentification, piloté par microcontrôleur. | `C++` `Arduino` `Electronics` |
-| [**🧠 NeuralNet Scratch**](https://github.com/CorentinCARTLL/TON-REPO-NN) | Implémentation NumPy-only d'un MLP (Backpropagation, Gradient Descent) sans framework. Maîtrise des maths du Deep Learning. | `Python` `Maths` `Numpy` |
-| [**📊 Clear-DATA**](https://github.com/CorentinCARTLL/TON-REPO-DATA) | Conception complète d'une base de données (Merise) et scripts d'automatisation pour le Data Engineering. | `SQL` `Merise` `Python` |
+| [**🏆 Hackathon AI 2025**](https://github.com/CorentinCARTLL/TON-REPO-HACKATHON) | **Prix de l'Innovation.** Architecture d'Agents IA sur Azure. Automatisation de workflows et intégration d'APIs pour l'optimisation de processus Data. | `Python` `Azure` `VectorDB` |
+| [**🧠 NeuralNet Scratch**](https://github.com/CorentinCARTLL/TON-REPO-NN) | Implémentation complète d'un **MLP (Réseau Multi-Couches)** sans framework. Maîtrise des maths du Deep Learning (Backpropagation, Gradient Descent). | `Python` `Numpy` `Maths` |
+| [**🛡️ BotNet Detection**](https://github.com/CorentinCARTLL/TON-REPO-BOTNET) | Système de **Cybersécurité** détectant les anomalies réseau (DDoS, scans) via Random Forest. Entraîné sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
+| [**📡 Signal Processing**](https://github.com/CorentinCARTLL/TON-REPO-SIGNAL) | Simulation complète d'une chaîne de transmission acoustique (IoT). Encodage, modulation, transmission et **décodage de signal** brut. | `Python` `DSP` `Physique` |
+| [**🏎️ F1 Strategy Sim**](https://github.com/CorentinCARTLL/Simulateur-Strategie-F1) | Algorithme d'**optimisation** de stratégie de course. Modélisation physique (dégradation pneus, carburant) pour minimiser le temps total. | `Python` `Algo` `Data` |
+| [**📊 Clear-DATA**](https://github.com/CorentinCARTLL/TON-REPO-DATA) | Cycle complet de **Data Engineering**. Conception de base de données (Merise/SQL) et scripts d'automatisation pour le peuplement et la validation. | `SQL` `Merise` `Python` |
 
 <br/>
 
@@ -80,7 +80,7 @@ Voici une sélection de mes projets récents, alliant algorithmie, électronique
 
 ### 📬 Me Contacter
 
-Je suis toujours ouvert aux discussions sur la Tech, la Finance ou la Formule 1 !
+Je suis toujours ouvert aux discussions sur la Tech, la Finance ou l'Ingénierie.
 
 * 📍 **Localisation :** Mobile sur toute la France (Toulouse, Nice, Paris...)
 * 💼 **LinkedIn :** [Corentin Cartallier](https://www.linkedin.com/in/corentin-cartallier-71a56035a)
