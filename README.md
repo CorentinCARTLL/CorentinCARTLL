@@ -1,7 +1,5 @@
 # Corentin Cartallier
 
-[Français](#français) | [English](#english)
-
 ---
 
 ## Français
