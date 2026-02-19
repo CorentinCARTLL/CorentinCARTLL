@@ -1,88 +1,39 @@
-<div align="center">
+# Corentin Cartallier
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=250&section=header&text=Corentin%20Cartallier&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Ingénieur%20IA%20&%20Systèmes%20Embarqués&descAlignY=55&descAlign=50" alt="Bannière Corentin" width="100%"/>
-
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=700&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Étudiant+Ingénieur+CESI;Passionné+par+l'IA+et+le+Temps+Réel;Lauréat+Hackathon+Azuréen+IA+2025;Recherche+Stage+Avril-Juillet+2026" alt="Typing SVG" />
-    </a>
-  </h3>
-
-  <p>
-    <a href="mailto:corentin.cartallier@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contactez_Moi-D4AF37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/corentin-cartallier-71a56035a">
-      <img src="https://img.shields.io/badge/LinkedIn-Profil_Pro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://corentincartll.github.io/PortfolioWeb/">
-      <img src="https://img.shields.io/badge/Portfolio-Visiter_le_Site-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-
-</div>
+[Français](#français) | [English](#english)
 
 ---
 
-### 🚀 À propos de moi
+## Français
 
-👋 **Bonjour !** Je suis Corentin, étudiant ingénieur (CESI) passionné par la convergence entre le **matériel**, l'**IA** et le **Temps Réel**. Mon objectif est de concevoir des systèmes fiables pour des environnements critiques.
+Bonjour, je suis Corentin.
 
-🎯 **Objectif Actuel :** Je recherche un **Stage Ingénieur de 4 mois** (Avril - Juillet 2026) en Systèmes Embarqués, IA ou Développement Logiciel critique.
+Actuellement étudiant en classe préparatoire intégrée au CESI à Toulouse, je me passionne pour la convergence entre l'intelligence artificielle, le matériel et les systèmes temps réel. Mon objectif est d'apprendre à concevoir des systèmes fiables pour des environnements critiques.
 
-🏆 **Fait Marquant :** Lauréat du **Prix de l'Innovation 2025** au Hackathon Azuréen de l'IA.
+**Ce que je recherche :**
+Je suis à la recherche d'un stage ingénieur de 4 mois, d'avril à juillet 2026, dans les domaines des systèmes embarqués, de l'IA ou du développement logiciel. Bien que basé à Toulouse, je suis mobile sur toute la France.
 
----
+**Quelques points clés :**
+* J'ai récemment remporté le Prix de l'Innovation au Hackathon Azuréen de l'IA 2025.
+* Mes langages de prédilection incluent Python, C++, C et Java.
+* Je travaille régulièrement avec des outils liés à la Data Science (TensorFlow, PyTorch, Scikit-learn) et au développement de systèmes (Linux, Git, Docker).
 
-### 🛠️ Arsenal Technique
-
-J'utilise une variété d'outils pour transformer la donnée en décision et le code en action.
-
-| Domaine | Technologies |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Data Science & IA** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Systèmes & Outils** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| **Web & BDD** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Merise](https://img.shields.io/badge/-Merise-888888?style=flat&logo=database&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+Je vous invite à explorer mes dépôts publics pour voir mon code en action. N'hésitez pas à me contacter directement par mail à [corentin.cartallier@gmail.com](mailto:corentin.cartallier@gmail.com) ou à me retrouver sur [LinkedIn](https://www.linkedin.com/in/corentin-cartallier). Vous pouvez également visiter mon [portfolio web](https://corentincartll.github.io/PortfolioWeb/).
 
 ---
 
-### 💻 Projets Phares
+## English
 
-Sélection de projets démontrant mon expertise en **Algorithmique**, **Data Engineering** et **Systèmes**.
+Hi, I'm Corentin.
 
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| [**🏆 Hackathon AI 2025**](https://github.com/CorentinCARTLL/TON-REPO-HACKATHON) | **Prix de l'Innovation.** Architecture d'Agents IA sur Azure. Automatisation de workflows et intégration d'APIs pour l'optimisation de processus Data. | `Python` `Azure` `VectorDB` |
-| [**🧠 NeuralNet Scratch**](https://github.com/CorentinCARTLL/TON-REPO-NN) | Implémentation complète d'un **MLP (Réseau Multi-Couches)** sans framework. Maîtrise des maths du Deep Learning (Backpropagation, Gradient Descent). | `Python` `Numpy` `Maths` |
-| [**🛡️ BotNet Detection**](https://github.com/CorentinCARTLL/Projet-AI-BotNet-Detection) | Système de **Cybersécurité** détectant les anomalies réseau (DDoS, scans) via Random Forest. Entraîné sur le dataset CICIDS2017. | `Machine Learning` `Secu` |
-| [**📡 Signal Processing**](https://github.com/CorentinCARTLL/Projet-Traitement-de-Signal) | Simulation complète d'une chaîne de transmission acoustique (IoT). Encodage, modulation, transmission et **décodage de signal** brut. | `Python` `DSP` `Physique` |
-| [**🏎️ F1 Strategy Sim**](https://github.com/CorentinCARTLL/Simulateur-Strategie-F1) | Algorithme d'**optimisation** de stratégie de course. Modélisation physique (dégradation pneus, carburant) pour minimiser le temps total. | `Python` `Algo` `Data` |
-| [**📊 Clear-DATA**](https://github.com/CorentinCARTLL/Projet-ClearDATA) | Cycle complet de **Data Engineering**. Conception de base de données (Merise/SQL) et scripts d'automatisation pour le peuplement et la validation. | `SQL` `Merise` `Python` |
+Currently an engineering student in the integrated preparatory program at CESI in Toulouse, I am passionate about the intersection of artificial intelligence, hardware, and real-time systems. My goal is to learn how to design reliable systems for critical environments.
 
-<br/>
+**What I am looking for:**
+I am actively seeking a 4-month engineering internship from April to July 2026 in embedded systems, AI, or software development. I am based in Toulouse but open to opportunities anywhere in France.
 
-<div align="center">
+**A few highlights:**
+* I recently won the Innovation Award at the 2025 Azuréen AI Hackathon.
+* My main programming languages are Python, C++, C, and Java.
+* I regularly work with Data Science frameworks (TensorFlow, PyTorch, Scikit-learn) and system tools (Linux, Git, Docker).
 
-### 🔍 Envie d'aller plus loin ?
-
-**Je vous invite à explorer mes dépôts pour découvrir la qualité de mon code, la structure de mes projets et mes contributions.**
-
-<a href="https://github.com/CorentinCARTLL?tab=repositories">
-  <img src="https://img.shields.io/badge/VOIR_TOUS_MES_REPOSITORIES-333333?style=for-the-badge&logo=github&logoColor=white" alt="Voir mes repos">
-</a>
-
-</div>
-
-<br/>
-
----
-
-### 📬 Me Contacter
-
-Je suis toujours ouvert aux discussions sur la Tech, la Finance ou l'Ingénierie.
-
-* 📍 **Localisation :** Mobile sur toute la France (Toulouse, Nice, Paris...)
-* 💼 **LinkedIn :** [Corentin Cartallier](https://www.linkedin.com/in/corentin-cartallier-71a56035a)
-* 📧 **Email :** [corentin.cartallier@gmail.com](mailto:corentin.cartallier@gmail.com)
-* 🌐 **Portfolio :** [Accéder à mon site personnel](https://corentincartll.github.io/PortfolioWeb/)
+Feel free to explore my public repositories to see my code. You can reach out to me directly via email at [corentin.cartallier@gmail.com](mailto:corentin.cartallier@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/corentin-cartallier). You can also check out my [web portfolio](https://corentincartll.github.io/PortfolioWeb/).
